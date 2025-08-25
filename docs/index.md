@@ -12,3 +12,4 @@ Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Materia
    site_name: Documentación del Curso
    theme: Acerca de mi
      name: Arturo Martìnez Sosa
+https://github.com/Arturo203522/portafolio-ibero/blob/main/docs/recursos/imgs/ibero.jpeg
