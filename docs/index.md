@@ -1,14 +1,13 @@
 # Documentación del Proyecto
 
-Bienvenido 👋  
-Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
 
+
+#Acerca de mi 
+Soy Arturo Martínez Sosa, estoy estudiando mi primer semestre en la carrera de ingenieria mecatronica en la Ibero Puebla, estoy interesado y enfocado en aprender acerca de electrónica, mecánica, programación y automatización 
 ---
+##Información de contacto 
+Correro: 203522@iberopuebla.mx
+Teléfono: 2225227138
 
-## Empezar rápido (3 pasos)
+##Proyectos y logtros 
 
-1. **Edita el nombre del sitio** en `mkdocs.yml`:
-   ```yaml
-   site_name: Documentación del Curso
-   theme:
-     name:
