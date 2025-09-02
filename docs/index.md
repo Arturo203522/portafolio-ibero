@@ -16,6 +16,6 @@ Correro: 203522@iberopuebla.mx
 Teléfono: 2225227138
 
 ##Proyectos y logros
-
+Un logro muy reciente es que acabo de aprender a usar SolidWorks para un proyecto de la escuela 
 
 
