@@ -22,18 +22,43 @@ Un logro muy reciente es que acabo de aprender a usar SolidWorks para un proyect
 # Proyecto MCU 101
 Este proyecto consistió en hacer prender y apagar un led por medio de un boton, y posteriormente por medio de un celular que le pase la informacion al esp32 por bluetooth para encenderlo y apagarlo.
  
-Código en Arduino 
-![Ledapagado](recursos/imgs/codigoarduino1)
+##Código en Arduino 
+![Codigoarduino1](recursos/imgs/codigoarduino1.jpg)
 
-Aqui se muestra el led apagado
-![Ledapagado](recursos/imgs/ledapagado).
+##Aqui se muestra el led apagado
+![Ledapagado](recursos/imgs/ledapagado.jpg).
 
-Aqui se muestra el led encencido
-![Ledapagado](recursos/ledencendido)
+##Aqui se muestra el led encencido
+![Ledencendido](recursos/imgs/ledencendido.jpg)
+
+##Video de led funcionando con boton 
+https://youtube.com/shorts/4gLAL3IWOLs?feature=share
+
+##Video led funcionando por bluetooth
+https://youtube.com/shorts/xzuMIwzZtzU?feature=share
+
+# Actuadores
+Implementación del control de movimiento para actuadores
+
+##Cambio de giro 
+https://youtube.com/shorts/r9xEx3B_lzI?feature=share
+
+##Video de motor con cambio de giro
+https://youtube.com/shorts/uXsEfFbz2xI?feature=share
+
+##Video con cambio de velocidad
+https://youtube.com/shorts/uXsEfFbz2xI?feature=share
+
+##Video de servo 0-10-0-20...
+https://youtube.com/shorts/3mB7jcWFMh0?feature=share
 
 
 
-https://github.com/user-attachments/assets/b743de9e-c6e2-4235-a489-92398c7ba14a
+
+
+
+
+
 
 
 
